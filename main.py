@@ -1,6 +1,7 @@
 # ==========================================
 # SHOP MANAGEMENT SYSTEM
 # ==========================================
+# Shop Management System - Version 1.1
 import os
 import mysql.connector
 from dotenv import load_dotenv
